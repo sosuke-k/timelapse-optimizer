@@ -1,5 +1,12 @@
 # Timelapse Optimizer
 
+This is the script to optimize the speed of a timelapse movie.
+
+Example:
+
+* [original timelapse](https://www.youtube.com/watch?v=BOHDtW9_tlQ)
+* [optimized timelapse](https://www.youtube.com/watch?v=iPMuMYygbDg)
+
 ## Dependencies
 
 ```
